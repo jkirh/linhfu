@@ -8,7 +8,7 @@
         "decryption": "none",
         "clients": [
           {
-            "id": "$AUUID"
+            "id": "/$AUUID"
           }
         ]
       },
